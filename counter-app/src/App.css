@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  background-color:white;
+  height: 50vh;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 125px;
+  margin-top:50px;
+}
+
+button{
+  border-radius: 25px;
+  background-color: black;
+  color:white;
+  font-size: 25px;;
+  margin-right: 100px;
+  padding:10px 30px 10px 30px;
+}
+button:hover{
+  background-color: cadetblue;
+}
+button:focus{
+  background-color: green;
+}
